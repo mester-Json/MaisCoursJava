@@ -17,6 +17,6 @@ public class CompteEpargne extends CompteBancaire {
     public void afficher() {
         super.afficher();
         System.out.println("Taux = " + taux);
-        System.out.println("---------------------------------------------------------------------------------------------------");
+        System.out.println("___________________________________________________________________________________________________");
     }
 }
