@@ -18,7 +18,6 @@ public class Voiture {
         System.out.println("Année: " + annee);
     }
 
-    // Getters et setters
     public String getMarque() {
         return marque;
     }

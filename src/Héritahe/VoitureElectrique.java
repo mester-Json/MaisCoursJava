@@ -15,7 +15,6 @@ public class VoitureElectrique extends Voiture {
         System.out.println("Autonomie: " + autonomie + " km");
     }
 
-    // Getter et setter
     public int getAutonomie() {
         return autonomie;
     }

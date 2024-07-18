@@ -15,7 +15,6 @@ public class VoitureEssence extends Voiture {
         System.out.println("Capacité du réservoir: " + capaciteReservoir + " litres");
     }
 
-    // Getter et setter
     public int getCapaciteReservoir() {
         return capaciteReservoir;
     }
